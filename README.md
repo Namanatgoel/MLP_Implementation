@@ -306,3 +306,16 @@ gradient. The correct derivative of L = (1/N)·Σ(A−Y)² is:
 |---|---|---|
 | Wine Quality | Test RMSE | ≤ 0.85 |
 | Adult Income | F1-score (high-income class) | ≥ 0.68 (Experiment A baseline) |
+
+# OUTPUT
+<img width="1162" height="773" alt="Screenshot from 2026-05-28 19-26-39" src="https://github.com/user-attachments/assets/c06577ca-1861-48f9-8ae3-2afa37605c8f" />
+
+<img width="1163" height="883" alt="Screenshot from 2026-05-28 19-26-54" src="https://github.com/user-attachments/assets/ccdbde66-28ec-4d8a-b1c4-4f27eddcd11e" />
+
+<img width="1725" height="953" alt="Screenshot from 2026-05-28 19-29-40" src="https://github.com/user-attachments/assets/a4ffe19e-62a9-40b7-b876-ab720654cf6b" />
+
+<img width="1644" height="644" alt="Screenshot from 2026-05-28 19-29-56" src="https://github.com/user-attachments/assets/ffd12375-6cab-4409-88ea-8ffd46eb0c79" />
+
+<img width="1558" height="1029" alt="Screenshot from 2026-05-28 19-30-17" src="https://github.com/user-attachments/assets/11ab3fb9-5b54-4f77-96e1-3404fc84f302" />
+
+<img width="1553" height="662" alt="Screenshot from 2026-05-28 19-30-27" src="https://github.com/user-attachments/assets/c4f8cfc2-9e5e-43de-82d9-83be2f273702" />
